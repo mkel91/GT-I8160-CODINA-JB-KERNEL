@@ -1,0 +1,4 @@
+GT-I8160-CODINA-JB-KERNEL
+=========================
+
+GT-I8160 CODINA JB KERNEL
